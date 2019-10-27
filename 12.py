@@ -1,0 +1,1 @@
+print(int(input("first number: ")) < 0 or int(input("second number: ")) < 0)

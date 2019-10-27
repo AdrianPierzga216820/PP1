@@ -1,0 +1,1 @@
+print('arythmetic sequence which common ratio equals 3: ', ', '.join([str(x) for x in range(1, int(input('Set N: ')) + 1, 3)]))

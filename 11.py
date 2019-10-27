@@ -1,0 +1,1 @@
+  print('Dane prawidłowe' if input("Login: ") == 'adrian' and input("Haslo: ") == 'adr123' else 'Dane nieprawidłowe')

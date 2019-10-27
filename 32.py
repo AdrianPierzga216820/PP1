@@ -1,0 +1,1 @@
+print(input('set sequence of symbols: ')[::-1])
